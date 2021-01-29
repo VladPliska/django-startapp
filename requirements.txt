@@ -1,2 +1,5 @@
-serializer
+serializer~=0.2.1
 djangorestframework=3.12.2
+
+Django~=2.2.12
+djangorestframework~=3.12.2
